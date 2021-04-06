@@ -108,4 +108,9 @@ footer button:hover {
   footer .column {
     padding-bottom: 5%;
   }
+
+  footer button {
+    padding-top: 4%;
+    padding-bottom: 4%;
+  }
 }
